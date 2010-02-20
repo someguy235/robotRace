@@ -1,0 +1,5 @@
+--eBelt movement doesn't work right, or does it matter?
+
+--robot transparency after death, esp. if reincarnating on top of another bot
+
+--starting orientations need to be based on chosen board
